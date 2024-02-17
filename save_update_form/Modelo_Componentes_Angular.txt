@@ -1,0 +1,28 @@
+################################## Card ###################################################
+<div data-testid="mycard" class="card border-primary" style="margin-top: 20px;" >
+  <div class="card-header bg-primary" style="color: #fff;">
+    ##### Crud
+  </div>
+  <div class="card-body">
+
+  </div>
+</div>
+######################################## Link #####################################################
+<a data-testid="mylink" class="btn btn-dark" style="margin-bottom: 5px;">Home</a>
+######################################## Form #####################################################
+<form data-testid="myform"></form>
+######################################## Input1 #####################################################
+<div class="form-group">
+  <label for="###">###</label>
+  <input data-testid="input1" id="###" type="text" style="margin-bottom: 20px;" class="form-control" placeholder="###"></input>
+</div>
+######################################## Input2 #####################################################
+<div class="form-group">
+  <label for="###">###</label>
+  <input data-testid="input2" id="###" type="text" style="margin-bottom: 20px;" class="form-control" placeholder="###"></input>
+</div>
+######################################## Botão #####################################################
+<button data-testid="btnenviar" type="submit" class="btn btn-primary">Enviar</button>
+
+
+

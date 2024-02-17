@@ -1,0 +1,38 @@
+################################## Card ###################################################
+<div data-testid="mycard" class="card border-primary" style="margin-top: 20px;" >
+  <div class="card-header bg-primary" style="color: #fff;>
+    ##### Crud
+  </div>
+  <div class="card-body">
+
+  </div>
+</div>
+################################## Link ###################################################
+<a data-testid="mylink" class="btn btn-success" style="margin-bottom: 10px;">Novo</a>
+################################## Tabela ###################################################
+<table data-testid="mytable" class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">##</th>
+      <th scope="col">##</th>
+      <th scope="col">##</th>
+      <th scope="col">##</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"></th>
+        <td></td>
+        <td></td>
+        <td>
+
+        </td>
+    </tr>
+  </tbody>
+</table>
+################################## Botões ###################################################
+<button data-testid="mybtn1" type="button"
+class="btn btn-outline-info" style="margin: 2px;">Editar</button>
+
+<button data-testid="mybtn2" type="button"
+class="btn btn-outline-danger" style="margin: 2px;">Excluir</button>
